@@ -28,7 +28,7 @@ PowerPay is a fintech solution designed to provide users with **virtual cards** 
 
 ## 📸 Screenshots
 ### App Overview
-![Home Screen](assets/Screenshot_20241106_095501.png)
+![Home Screen](https://firebasestorage.googleapis.com/v0/b/polectro-60b65.appspot.com/o/uploads%2FScreenshot_20250116_133001.png?alt=media&token=99fbd579-72c1-45d9-b437-ddfdd03261a0)
 ![Virtual Wallet](https://firebasestorage.googleapis.com/v0/b/polectro-60b65.appspot.com/o/uploads%2FScreenshot_20250116_133140.png?alt=media&token=3977ed04-83b7-4c34-adbc-2000e2e293ae)
 ![Virtual Card](https://firebasestorage.googleapis.com/v0/b/polectro-60b65.appspot.com/o/uploads%2FScreenshot_20250116_133103.png?alt=media&token=38427bb9-7d54-4ecb-86a3-7dcd496a6fbf)
 
