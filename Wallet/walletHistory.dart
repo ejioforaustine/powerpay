@@ -48,7 +48,7 @@ class _walletHistoryState extends State<walletHistory> {
     var headers = {
       'Content-Type': 'application/json',
       'Authorization':
-          'Bearer $bearer'
+          'Bearer '
     };
     var request = http.Request(
         'GET',
