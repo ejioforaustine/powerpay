@@ -34,7 +34,7 @@ class PayBEDCWithBuyPower {
     var headers = {
       'Content-Type': 'application/json',
       'Authorization':
-      'Bearer 182db8bfce04a98028d07e95c3731f8f8fd90b5734e1f5422f661bd42ec1caf6'
+      'Bearer '
     };
 
     var request = http.Request('GET', Uri.parse('https://api.buypower.ng/v2/check/meter?meter=$meterNumberBuyPower&disco=ABUJA&vendType=$discoTypeBP'));
