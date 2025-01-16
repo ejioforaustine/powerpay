@@ -27,7 +27,7 @@ var isDarkMode;
 Future<void> main() async {
 
   // Signing hash of your app
-  String base64Hash = hashConverter.fromSha256toBase64('66:AD:46:4B:41:61:78:BD:47:CF:EC:DF:3F:50:33:21:A9:39:1D:D8:6D:4E:B3:81:13:51:6B:E9:8B:F6:51:B2');
+  String base64Hash = hashConverter.fromSha256toBase64('66:AD:46:4B:41:61:78:BD:47:CF:EC:DF:3F:50:33:21:A9:39:1D:D8:6D:4E:B3:81:13:51:6B:E9:8B:F6:51:#');
 
   WidgetsFlutterBinding.ensureInitialized();
 
@@ -106,10 +106,10 @@ Future<void> main() async {
 
       options: const FirebaseOptions(
 
-          apiKey: 'AIzaSyCckGqSvg4GcNFgzs_nBzYeOBZTIQ7Ie9U',
-          appId: '1:259445508253:android:dfb6ac77cde912a8ad6c74',
-          messagingSenderId: '259445508253',
-          projectId: 'polectro-60b65',
+          apiKey: '########',
+          appId: '#########',
+          messagingSenderId: '########',
+          projectId: '##############',
 
       )
 
