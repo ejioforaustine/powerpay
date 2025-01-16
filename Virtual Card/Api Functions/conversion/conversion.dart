@@ -7,7 +7,7 @@ import '../createVirtualCustomer.dart';
 
 //Conversion NG to USD
 Future<Map<String, dynamic>> currencyConverterNGToUSD() async {
-  const url = 'https://us-central1-polectro-60b65.cloudfunctions.net/convertNGNToUSD'; // Replace with your server endpoint
+  const url = 'https://us-central1-polectro-60b65.cloudfunctions.net/convertNGNToUSD'; // server endpoint
 
   final response = await http.get(
     Uri.parse(url),
@@ -35,7 +35,7 @@ Future<Map<String, dynamic>> currencyConverterNGToUSD() async {
 
 //conversion USD to NG
 Future<Map<String, dynamic>> currencyConverterUSDToNG() async {
-  const url = 'https://us-central1-polectro-60b65.cloudfunctions.net/convertUSDToNGN'; // Replace with your server endpoint
+  const url = 'https://us-central1-polectro-60b65.cloudfunctions.net/convertUSDToNGN'; //  server endpoint
 
   final response = await http.get(
     Uri.parse(url),
